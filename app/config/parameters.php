@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'refonte_mandarine',
+    'database_user' => 'mandarine',
+    'database_password' => '&1B3oq2j',
+    'database_prefix' => 'psmd_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'IeosfsPGE76HNxobWMQuCCxDAdOmME3Yo5Z99a07yQwTGp3wK9Gh7CyFb0ac4ZOk',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-12-29',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'NUZwFuU7okicu3xKOdXhhupzoTkrZqS4mIiGQ4QUWAGK1RKsKT169YPNGY8TkKbP',
+    'cookie_iv' => 'Ck9sdniF2IJaWRZMcojTMhU7WuOApjuP',
+    'new_cookie_key' => 'def0000006065a1093e2da7fe1d17c4c628186cd47f456f7906ce6e60e3fc7b015a2f0a6610c0914ad0c6faef84bdee3c7f6d5faea6882970d02669779bbf0cd8981a54e',
+  ),
+);
